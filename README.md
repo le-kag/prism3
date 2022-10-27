@@ -8,5 +8,3 @@ npm start
 ```
 
 Learn about [Three.js](https://threejs.org/) with [Bruno Simon](https://bruno-simon.com/) tutorial & courses.
-
-![Screenshot (30)](https://user-images.githubusercontent.com/76808956/198198830-1be79cec-f532-4d2e-b817-d9497a4be550.png)
